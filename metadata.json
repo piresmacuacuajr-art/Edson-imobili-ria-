@@ -1,0 +1,10 @@
+{
+  "name": "Grupo Edson Imobiliaria",
+  "description": "Portal imobiliário de alto padrão líder em Moçambique. Conectamos proprietários, investidores e famílias exigentes a vivendas de luxo, terrenos certificados e imóveis comerciais premium em Maputo, Matola, Marracuene e Boane.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
